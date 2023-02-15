@@ -1,0 +1,4 @@
+HashTable size: 
+20971608
+BitMap size: 
+566887
